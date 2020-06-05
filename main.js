@@ -20,3 +20,7 @@ function localReach(){
 function bugLogger(){
   window.open("https://debug-logger.herokuapp.com/#/")
 }
+
+function reachCode(){
+  window.open("https://github.com/DerrickAWood/localReach.git")
+}
