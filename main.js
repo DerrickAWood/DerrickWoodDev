@@ -24,3 +24,7 @@ function bugLogger(){
 function reachCode(){
   window.open("https://github.com/DerrickAWood/localReach.git")
 }
+
+function bugCode(){
+  window.open("https://github.com/DerrickAWood/bug-logger.git")
+}
