@@ -37,3 +37,11 @@ function bugCode(){
 function woodWorksCode(){
   window.open("https://github.com/DerrickAWood/HayleighWood.git")
 }
+
+function keepr(){
+  window.open("https://keeprs.herokuapp.com/#/")
+}
+
+function keeprCode(){
+  window.open("https://github.com/DerrickAWood/Keepr.git")
+}
